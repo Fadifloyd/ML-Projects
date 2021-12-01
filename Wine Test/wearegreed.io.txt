@@ -1,0 +1,6 @@
+Domain: wearegreed.io
+Passwd: v:u-HEQvT7/%L(L9
+
+DB Creds: 
+u118804050_wearegreed
+passwd: CHvAbtpKLfX4ecgH
